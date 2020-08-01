@@ -2,7 +2,9 @@
 4 in a row game with AI
 
 A Python AI Program by which you can play 4 in a row game.
-You can play this game just by running the file name named: run.py
+
+**Type:**<br>
+```$ python3 main.py```
 
 Injoy the game......
 
