@@ -4,7 +4,7 @@
 A Python AI Program by which you can play 4 in a row game.
 
 **Type:**<br>
-```$ python3 main.py```
+```$ python3 run.py```
 
 Injoy the game......
 
